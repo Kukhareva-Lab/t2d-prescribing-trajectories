@@ -6,7 +6,7 @@ This repository accompanies the manuscript *"Medication Trajectories in Type 2 D
 
 ## Data availability
 
-The analyses use de-identified national EHR data (TriNetX). Under the governing data use agreement, the underlying patient-level data **cannot be shared** and is not included in this repository. The notebooks expect locally available cleaned input tables (e.g., `medication_info.csv`, `lab_results.csv`, `BMI_vital_signs.csv`, `patient_demographics.csv`), which are produced by the dataset-construction step below. Notebooks were developed in Google Colab and read their inputs from a local data directory.
+The analyses use de-identified national EHR data (TriNetX). Under the governing data use agreement, the underlying patient-level data **cannot be shared** and is not included in this repository. The notebooks expect locally available cleaned input tables (e.g., `medication_info.csv`, `lab_results.csv`, `BMI_vital_signs.csv`, `patient_demographics.csv`), which are produced by the dataset-construction step below. Notebooks were developed in .ipynb notebooks and read their inputs from a local data directory.
 
 ## Repository structure
 
