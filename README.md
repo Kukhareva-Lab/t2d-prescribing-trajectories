@@ -45,13 +45,3 @@ Notebooks that generate the manuscript and supplementary tables, including the b
 5. **Sensitivity analyses** — run the notebooks in `Analysis/Sensitivity Analysis/` to reproduce the robustness checks.
 
 Intermediate results are passed between notebooks as CSV and pickle files, so the stages above should be run in order.
-
-## Environment
-
-The code is written in Python 3 (developed in Google Colab) and uses standard scientific Python libraries, including pandas, NumPy, scikit-learn, SciPy, statsmodels, and Matplotlib.
-
-## Citation
-
-If you use this code, please cite:
-
-> Lux TS, et al. *Medication Trajectories in Type 2 Diabetes in the United States, 2019–2024.* [Journal / DOI to be added]
